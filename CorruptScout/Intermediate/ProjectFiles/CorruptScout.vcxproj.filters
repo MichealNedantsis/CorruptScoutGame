@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\CorruptScout.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{C188F70F-774F-4D6E-9804-969C818042A9}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\CorruptScout.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\CorruptScoutEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{12339175-35B4-4C5C-A2BA-972A06BF2FBC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\CorruptScout">
+			<UniqueIdentifier>{4FD86A33-4E56-49A7-8B1D-44DD0B859353}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\CorruptScout\CorruptScout.Build.cs">
+			<Filter>Source\CorruptScout</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\CorruptScout\CorruptScout.cpp">
+			<Filter>Source\CorruptScout</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CorruptScout\CorruptScout.h">
+			<Filter>Source\CorruptScout</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CorruptScout\CorruptScoutCharacter.cpp">
+			<Filter>Source\CorruptScout</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CorruptScout\CorruptScoutCharacter.h">
+			<Filter>Source\CorruptScout</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CorruptScout\CorruptScoutGameMode.cpp">
+			<Filter>Source\CorruptScout</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CorruptScout\CorruptScoutGameMode.h">
+			<Filter>Source\CorruptScout</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CorruptScout\CorruptScoutHUD.cpp">
+			<Filter>Source\CorruptScout</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CorruptScout\CorruptScoutHUD.h">
+			<Filter>Source\CorruptScout</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CorruptScout\CorruptScoutProjectile.cpp">
+			<Filter>Source\CorruptScout</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CorruptScout\CorruptScoutProjectile.h">
+			<Filter>Source\CorruptScout</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CorruptScout.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Intermediate\Build\Win64\UE4Editor\Development\CorruptScout\CorruptScout.cpp.obj"
+"D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Intermediate\Build\Win64\UE4Editor\Development\CorruptScout\CorruptScoutCharacter.cpp.obj"
+"D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Intermediate\Build\Win64\UE4Editor\Development\CorruptScout\CorruptScoutGameMode.cpp.obj"
+"D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Intermediate\Build\Win64\UE4Editor\Development\CorruptScout\CorruptScoutHUD.cpp.obj"
+"D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Intermediate\Build\Win64\UE4Editor\Development\CorruptScout\CorruptScoutProjectile.cpp.obj"
+"D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Intermediate\Build\Win64\UE4Editor\Development\CorruptScout\CorruptScout.init.gen.cpp.obj"
+"D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Intermediate\Build\Win64\UE4Editor\Development\CorruptScout\CorruptScoutCharacter.gen.cpp.obj"
+"D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Intermediate\Build\Win64\UE4Editor\Development\CorruptScout\CorruptScoutGameMode.gen.cpp.obj"
+"D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Intermediate\Build\Win64\UE4Editor\Development\CorruptScout\CorruptScoutHUD.gen.cpp.obj"
+"D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Intermediate\Build\Win64\UE4Editor\Development\CorruptScout\CorruptScoutProjectile.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\CorruptScout\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CorruptScout.lib"

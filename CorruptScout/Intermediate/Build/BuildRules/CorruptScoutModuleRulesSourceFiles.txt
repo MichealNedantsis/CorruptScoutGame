@@ -1,0 +1,3 @@
+D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Source\CorruptScout\CorruptScout.Build.cs
+D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Source\CorruptScout.Target.cs
+D:\GameDev\_Projects\Unreal\CorruptScoutGame\CorruptScout\Source\CorruptScoutEditor.Target.cs
